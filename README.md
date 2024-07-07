@@ -1,4 +1,3 @@
-<img src="https://github.com/Abdul-Moiz31/Abdul-Moiz31/blob/main/HD-wallpaper-code-minimalist-programmer.jpg" style="display: block; margin: 10 auto;">
 <h1 align="center">Hi 👋, I'm Abdul Moiz</h1>
 <h3 align="center">A developer always struggling to code , part time reader & occasional writer</h3>
 
