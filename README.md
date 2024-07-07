@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms for Problem Solving**
 
-- 💬 Ask me about **React.js , Node.js , Data Structures and Algorithms for Problem Solving**
+- 💬 Ask me about **React.js , Node.js & Problem Solving**
 
 - 📫 How to reach me **abdulmoiz3140@gmail.com**
 
