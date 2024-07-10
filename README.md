@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/im-abdulmoiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="im-abdulmoiz" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/abdul-moiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="abdul-moiz" height="30" width="40" /></a>
-<a href="https://medium.com/@abdulmoiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@abdulmoiz" height="30" width="40" /></a>
+<a href="https://medium.com/@@iam-abdulmoiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@abdulmoiz" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/@abdul_moiz1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="@abdul_moiz1" height="30" width="40" /></a>
 </p>
 
