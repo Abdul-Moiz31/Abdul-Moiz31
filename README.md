@@ -1,6 +1,8 @@
+<div align="center">
+  
 # 💻 Abdul Moiz
 
-<div align="center">
+
 
 **Sofwatre Engineer | Problem Solver | Tech, Community, Growth @DevWeekends **
 
@@ -234,23 +236,6 @@ Python        ████░░░░░░░░░░░░░░░░  15%
 
 ---
 
-## 🤝 Let's Collaborate
-
-<div align="center">
-
-**🎯 Open to exciting opportunities in:**
-- Full-Stack Development Roles
-- SaaS Product Development
-- Technical Leadership Positions
-- Open Source Collaborations
-
-**💡 I can help you with:**
-- Enterprise React.js Applications
-- Scalable Node.js Backend Systems
-- System Design & Architecture
-- Performance Optimization
-- Technical Mentoring & Code Reviews
-
 ### **📬 Get In Touch**
 
 [![Schedule a Call](https://img.shields.io/badge/Schedule%20a%20Call-Topmate-4285F4?style=for-the-badge&logo=calendar)](https://topmate.io/im_abdulmoiz)
@@ -263,18 +248,5 @@ Python        ████░░░░░░░░░░░░░░░░  15%
 <div align="center">
 
 **"The best way to predict the future is to create it." - Peter Drucker**
-
-```
-while (alive) {
-    eat();
-    sleep();
-    code();
-    repeat();
-}
-```
-
-**✨ Building the future, one commit at a time ✨**
-
-⭐️ From [Abdul Moiz](https://github.com/Abdul-Moiz31) • Made with ❤️ and lots of ☕
 
 </div>
