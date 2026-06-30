@@ -38,7 +38,7 @@
 <br/>
 
 <!-- Company Logos Strip -->
-<p><sub>WORKED AT</sub></p>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=13&duration=2000&pause=800&color=6B7280&center=true&vCenter=true&repeat=true&width=500&lines=BitByteClub+%C2%B7+Turing+%C2%B7+Xische+%26+Co+%C2%B7+TurboDebt+%C2%B7+Headstarter+%C2%B7+11+Seas" alt="companies"/>
 
 <a href="https://github.com/Abdul-Moiz31"><img src="logos/bitbyteclub.jpg" height="40" alt="BitByteClub" title="BitByteClub"/></a>
 &nbsp;&nbsp;
